@@ -8,16 +8,15 @@ class About extends Component {
           <div className="about">
 
           <h4>Education</h4>
-            <p>Bachelor of Technology in Computer Science and Engineering from Indian Institute of Technology, Kharagpur (IIT Kharagpur).<span>(2017 - 2021)</span></p>
-            <p>Currently pursuing my masters in Computer Science and Engineering at IIT Kharagpur. </p>
+            <p>Bachelor of Technology in Electronics and Electrical Communication Engineering from Indian Institute of Technology, Kharagpur (IIT Kharagpur).<span>(2017 - 2021)</span></p>
+            <p>Currently pursuing my masters in Visual Information and Embedded Systems at IIT Kharagpur. </p>
 
 
             <h4>Work Experience</h4>
-            <h5>Mastercard <span>Summer Intern (2021 Summer)(India/Pune)</span></h5>
+            <h5>Huawei <span>Summer Intern (2021 Summer)(India/Pune)</span></h5>
             <ul>
-              <li>Worked as a  webdeveloper and designed two pages for mastercard.</li>
-              <li>Converted a part of front-end in Angular to React</li>
-              <li>Collaborated with the team to learn about React, Redux, Bootstapping and testing platform Cypress.</li>
+              <li>Worked as a Application library developer.</li>
+              <li>Converted two libraries form android to Harmony OS</li?>
             </ul>
 
           </div>
