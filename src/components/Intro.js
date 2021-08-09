@@ -26,11 +26,11 @@ class Intro extends Component {
       <div className="intro" id="Intro">
         <div className="center">
           <div className="text">
-            <h1>Welcome!!!</h1>
-            <h1>I'm Karanam Tejendhar</h1>
+            <h1>Hola!!!</h1>
+            <h1>I'm Sanku Yogesh</h1>
             <h1>Software developer</h1>
-            <p>A self-motivated developer, who enjoys bulding user-friendly web apps and websites.<br></br>
-              I love to work with inspiring, creative people
+            <p>A self-motivated developer, who copys things.<br></br>
+              Like I did this from teju... :)
             </p>
             <div className="download">
               <a href = {Pdf} target = "_blank" rel="noopener noreferrer">
